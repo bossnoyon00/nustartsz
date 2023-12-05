@@ -3,7 +3,7 @@
 const Map = () => {
     return (
         <div className="my-3 ml-5">
-            <div className="w-[338px] h-[162px] rounded-2xl px-5 py-2  text-white" style={{ backgroundColor: 'rgba(39, 89, 152, 1)', fontSize: '16px' }}>
+            <div className="w-[338px] h-[162px] rounded-2xl space-y-2 px-4 py-2  text-white" style={{ backgroundColor: 'rgba(39, 89, 152, 1)', fontSize:'16px' }}>
                 <p>Corporate Headquarters,Numentica LLC</p>
                 <p>
                     3868 W Carson St, Suite 300Torrance <br />
