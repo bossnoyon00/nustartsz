@@ -1,13 +1,12 @@
 
 import './App.css'
-import WhyUs from './pages/Home/WhyUs/WhyUs'
+import Footer from './pages/Home/Footer/Footer'
 
 function App() {
 
   return (
     <>
-    
-      <WhyUs></WhyUs>
+      <Footer></Footer>
     </>
   )
 }
